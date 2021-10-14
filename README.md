@@ -13,7 +13,7 @@
 
 - 📫 Contact me **[here](anshdeep4002@gmail.com)**
 
-- 📄 My Resume [https://anshdeep24.github.io/CV/]
+- 📄 My Resume [https://drive.google.com/file/d/18f0XKPJpYuJh_aNRBB8d6OqMXelMF_KY/view?usp=sharing]
 
 - ⚡ Fun fact **People often call me an nerd**
 
