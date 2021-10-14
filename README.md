@@ -19,7 +19,7 @@
 
 ## ✍ My Work
 
-[![Anshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshdeep&show_icons=true&theme=dark)](https://github.com/AnshDeep24)
+[![Anshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshDeep24&show_icons=true&theme=dark)](https://github.com/AnshDeep24)
 
 Here are some of my projects on Github that I am proud of:
 
