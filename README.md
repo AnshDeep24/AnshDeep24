@@ -1,5 +1,5 @@
 # AnshDeep Yadav
-![Anshdeep's Seal's-cover](/Users/anshdeepyadav/Downloads/ansh deep yadav's-cover.png)
+![Anshdeep's Seal's-cover](./ansh.png)
 
 ## 🧔 About Me
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **React, Web Development and UI/UX**
+- 💬 Ask me about **React,Web Development and UI/UX**
 
 - 📫 Contact me **[here](anshdeep4002@gmail.com)**
 
