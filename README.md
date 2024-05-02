@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **React,Web Development and UI/UX**
+- 💬 Ask me about ** React, Web Development. **
 
 - 📫 Contact me **[here](anshdeep4002@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/15rVoLsJ1p9otT8ea73Kv2G962tlHY8yn/view?usp=drive_link]
+- 📄 My Resume [https://drive.google.com/file/d/1xOa7EZEOYR9w-w8PZ9nZDXqnhVpbVtIf/view]
 
-- ⚡ Fun fact **People often call me an nerd**
+- ⚡ Fun fact **People often call me coder **
 
 ## ✍ My Work
 
